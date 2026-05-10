@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://greater-london-2026-q2-22-tower-zeabur.zeabur.app/sitemap.xml
